@@ -34,7 +34,7 @@
  }
 
  nav {
-     inner
+     /* inner */
      /* justify-items: center; */
      width: 100%;
  }
@@ -63,4 +63,9 @@
  .variables td {
      border: 0.4vh solid light-dark(#2b2b2b, #ffffff);
 
+ }
+
+ img {
+    width: auto;
+    padding: 0;
  }
