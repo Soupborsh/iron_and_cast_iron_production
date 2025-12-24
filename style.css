@@ -88,7 +88,9 @@ nav h3 {
 
 }
 
-
+.credit {
+    font-size: smaller;
+}
 
 img,
 iframe {
